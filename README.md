@@ -8,8 +8,8 @@
 
 ### Как начать:
 
-1. `git clone https://github.com/anterm/reactProject4-styles-css-modules`
-1. `cd reactProject4-styles-css-modules`
+1. `git clone https://github.com/anterm/reactProject5-styles-css-modules`
+1. `cd reactProject5-styles-css-modules`
 1. `npm install`
 1. `npm start`
 
